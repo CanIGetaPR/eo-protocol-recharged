@@ -12,10 +12,10 @@
         <value name="FileEif">6</value>
         <value name="FileEnf">7</value>
         <value name="FileEsf">8</value>
-        <value name="PlayersList">20</value>
-        <value name="MapMutation">10</value>
-        <value name="PlayersListFriends">22</value>
         <value name="FileEcf">12</value>
+        <value name="MapMutation">10</value>
+        <value name="PlayersList">20</value>
+        <value name="PlayersListFriends">22</value>
     </enum>
 
     <enum name="InitBanType" type="byte">
